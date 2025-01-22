@@ -43,7 +43,7 @@ Download the EIMT models from the following link:
 
 ### Access the Model Using the Interface
 You can directly check the NMT models using the web interface:  
-[Web Interface](https://psassmt.uat.dcservices.in/)
+[EILMT Web Interface](https://psassmt.uat.dcservices.in/)
 
 ## Requirements and Dependencies
 Ensure that all necessary requirements and dependencies are installed to run the models efficiently. For more details, refer to the provided document along with Models.
