@@ -39,7 +39,7 @@ Ready-to-use models designed for diverse translation tasks. These models can be 
 ## Download
 ### Models
 Download the EIMT models from the following link:
-[Download Models](https://sanchayan.cdac.in/index.php/s/ajwiwoREp67LoMr)
+[Download Models](https://sanchayan.cdac.in/index.php/s/emsHp6omjOAvfGw)
 
 ### Access the Model Using the Interface
 You can directly check the NMT models using the web interface:  
